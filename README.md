@@ -18,9 +18,7 @@
 <!-- markdownlint-enable MD033 -->
 
 
-**matt-64/matt-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+At this moment:
 
 - 🔭 I’m currently working on Galaxy zoo kaggle challenge exercice
 - 🌱 I’m currently learning on Computer Vision
