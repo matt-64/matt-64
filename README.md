@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&lines=Hye%2C+Welcome%2C+i'm+junior+IA+developer%2C;and+I+studies+at+SIMPLON+School++;In+france%2C+West+South">
 </p>
+
+
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22readme+typing+svg+herokuapp%22&type=Code" alt="Users" title="Repo users">
