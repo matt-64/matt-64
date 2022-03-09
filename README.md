@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%23217CF7&size=25&duration=4000&height=100&lines=hi+%2C+Welcome+!!+;I'm+student+AI+developer%2C;and+I+studies+at+SIMPLON++;In+france%2C+West+South">
 </p>
 
-
-   
-  <a> href="https://www.linkedin.com/in/matthew-rasic-6465925b/" alt="LinkedIn" title="Dev Pro Tips Discussion & Support Server">
-     src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-rasic-6465925b/"  alt="LinkedIn" title="Linkedin">
+    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
 </p>
+   
 <!-- markdownlint-enable MD033 -->
 
 
