@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22readme+typing+svg+herokuapp%22&type=Code" alt="LinkedIn" title="Repo users">
-    <img src="https://www.linkedin.com/in/matthew-rasic-6465925b/"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+   
+  <a href="https://www.linkedin.com/in/matthew-rasic-6465925b/" alt="LinkedIn" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
