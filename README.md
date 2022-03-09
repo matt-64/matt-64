@@ -8,8 +8,8 @@
 
 
    
-  <a align="center" href="https://www.linkedin.com/in/matthew-rasic-6465925b/" alt="LinkedIn" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/matthew-rasic-6465925b/" alt="LinkedIn" title="Dev Pro Tips Discussion & Support Server">
+    <img align="center"  src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 
