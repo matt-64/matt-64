@@ -19,6 +19,6 @@
 
 At this moment:
 
-- 🔭 I’m currently working on Galaxy zoo kaggle challenge exercice
+- 🔭 I’m currently working on RNN & lstm exercice
 - 🌱 I’m currently learning on Computer Vision
 
