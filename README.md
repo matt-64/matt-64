@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matthew-rasic-6465925b/"  alt="LinkedIn" title="Linkedin">
+  <a href="https://www.linkedin.com/in/matthew-r-6465925b/"  alt="LinkedIn" title="Linkedin">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
   <a href="https://github.com/matt-64?tab=followers"  alt="Follow" title="github">
     <img src="https://img.shields.io/github/followers/matt-64?color=DC13EC&label=follow&style=for-the-badge"/></a>
