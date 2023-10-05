@@ -19,9 +19,9 @@
 
 At this moment:
 
-- 🔭 I’m currently working on computer vision 
+- 🔭 I’m currently working on computer vision and NLP projects
 
-Hi there,
+Hi everyone,
 
-I am a developer with a passion for data, technology, and music. Over the past two years, I have undergone a career change and completed training in web development (PHP) and artificial intelligence at SIMPLON school in Bayonne. On my GitHub page, you will find examples of my work in these fields, as well as my interests in acoustics and electronic music. I look forward to collaborating with others and sharing my knowledge with the GitHub community.
+I'm a data scientist with a passion for data, technology and music. Following a career change over the past two years, I have acquired expertise in web development with a specialization in PHP. Recently, I also completed an in-depth training course in artificial intelligence at the SIMPLON school in Bayonne.
 
