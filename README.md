@@ -3,7 +3,7 @@
   <h3 align="center">⌨️ Bienvenue</h3>
   
   
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23217CF7&size=25&duration=4000&height=100&lines=hi+%2C+Welcome+!!+;I'm+AI+developer%2C;and+I+just+finish+my+studies++;In+france%2C+West+South">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23217CF7&size=25&duration=4000&height=100&lines=hi+%2C+Welcome+!!+;I'm+AI+developer%2C;and+I+live++;In+france%2C+West+South">
 </p>
 
 <p align="center">
