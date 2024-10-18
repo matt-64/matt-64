@@ -18,7 +18,7 @@
 I’m a **Data Scientist** and **AI developer** with a background in **web development** and a passion for **music**. After working in **sound engineering**, I transitioned into **data science** and **artificial intelligence**, bringing a unique perspective to problem-solving through my diverse expertise.
 
 - 💻 **Current Work**: I’m currently working on **AI-driven projects**, with a focus on **computer vision**, **natural language processing**, and **audio analysis** tools.
-- 🎓 **Recent Education**: I recently completed a ** Master AI developer** at **SIMPLON School** in Bayonne.
+- 🎓 **Recent Education**: I recently completed a **Master AI developer** at **SIMPLON School** in Bayonne.
 - 🎧 **Musical Passion**: I compose music using **Ableton Live** and work on integrating **music analysis** with **machine learning**.
 - 🌍 **Location**: I'm based in **Southwest France**, near **Bayonne**.
 
