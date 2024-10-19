@@ -43,8 +43,9 @@ Here are a few key projects I’m working on or have contributed to:
 
 - **Languages**: Python, PHP, JavaScript
 - **AI & Data Tools**: TensorFlow, PyTorch, scikit-learn, Librosa, Pandas, NumPy
-- **Web Development**: Flask, Django, HTML/CSS, SQL
-- **Other**: Docker, AWS StudioLab, Git
+- **DATAVIZ**: matplot, seaborn, plotly
+- **Web Development**: Flask, Django, HTML/CSS, SQL, NoSql
+- **Other**: Docker, AWS(studioLab,sagemaker,S3,lambda,cloudwatch,EC2,CloudFront,DynamoDB,CloudFormation,SNS,VPC,IAM,SQS), Git
 
 ---
 
