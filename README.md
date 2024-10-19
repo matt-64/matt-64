@@ -31,7 +31,7 @@ Here are a few key projects I’m working on or have contributed to:
 - 🎨 **[Music-to-Image Generation Tool](https://github.com/matt-64/music-to-image-generation)**:
   A Python-based tool that extracts **audio features** from music without downloading the file, and links them to visual generation.
 
-- 📊 **[Audio Feature Engineering & Analysis]([music-to-image-generation/notebooks/01_data_preparation.ipynb](https://github.com/matt-64/music-to-image-generation/blob/main/music-to-image-generation/notebooks/01_data_preparation.ipynb))**:
+- 📊 **[Audio Feature Engineering & Analysis](https://github.com/matt-64/music-to-image-generation/blob/main/music-to-image-generation/notebooks/01_data_preparation.ipynb))**:
   A comprehensive set of notebooks exploring **audio analysis**, from feature extraction (MFCC, spectral features) to **machine learning integration**.
 
 - 💡 **[AI-driven NLP tools](https://github.com/matt-64/nlp-tools)**:
